@@ -29,7 +29,7 @@ XSeller is an online platform where users can buy and sell second-hand items. Th
 ### Steps to Install
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/xseller.git
+   git clone https://github.com/Akash-Agarwal-X/X-Seller.git
    cd xseller
    ```
 
